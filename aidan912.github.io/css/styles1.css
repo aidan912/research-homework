@@ -1,0 +1,35 @@
+
+body {
+  background-color: #9effce;
+}
+
+h1 {
+  font-family: helvetica;
+}
+p {
+  font-family: helvetica;
+}
+img {
+  height: 396px;
+  width: 306px;
+}
+.imgstreet {
+  height: 400px;
+  width: 600px;
+}
+.imgjalen {
+  height: 221px;
+  width: 394px;
+}
+.microphones {
+  height: 300px;
+  width: 300px;
+}
+.modestmouse {
+  height: 300px;
+  width: 300px;
+}
+.madvillain {
+  height: 300px;
+  width: 300px;
+}
