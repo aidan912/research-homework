@@ -1,6 +1,6 @@
 ![Idea 101](thumbnail.jpg)
 
-Virtual Reality
+# Virtual Reality
 
 The first piece of virtual reality hardware was created by Morton Heilig in 1962, a machine dubbed the “Sensorama” based off an earlier idea he had of an “Experience Theater” a theater meant to indulge all 5 senses.  However, the father of modern VR was Ivan Sutherland, who created the first head mounted VR display in 1968, calling it the “Sword of Damocles”.
 The ideas behind VR have been present in society for a long time, the idea of a stereoscopic image has been in consumer products since 1939. The origins of the term are disputed however, due to certain ideas of virtual reality relating more to existence than technology. The first mention of the modern concept of VR came from science fiction.
